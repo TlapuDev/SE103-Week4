@@ -1,0 +1,16 @@
+Student Name: Phemelo Tlapu
+
+What cloning does:
+Cloning copies a repository from GitHub to my computer so that I can work on the project locally. It also connects my local repository to the remote repository so I can pull and push changes.
+
+What forking does:
+Forking creates a separate copy of someone else's repository under my own GitHub account. It is useful when I want to work on a project without directly changing the original repository.
+
+When I would fork first and then clone:
+I would fork first when I want to contribute to someone else's GitHub project and do not have direct permission to make changes to their repository. After creating the fork on GitHub, I would clone my fork to my computer so I can work on it locally.
+
+If I only need a local copy of my own SE103-Week4 repository, should I fork or clone?
+Answer: clone
+
+Why:
+My SE103-Week4 repository already belongs to my GitHub account, so I do not need to create another GitHub copy of it. I only need to copy the existing repository from GitHub to my computer, which is what cloning does.
