@@ -1,0 +1,16 @@
+Student Name: Phemelo Tlapu
+GitHub Username: TlapuDev
+
+Authentication method I used: PAT
+
+Why I chose this method:
+I chose PAT because I am using an HTTPS connection to work with my GitHub repository. It allows Git to authenticate me securely when I need to perform Git operations such as pushing my work.
+
+One security habit I must follow with this method:
+I must keep my PAT private and never share it with anyone or include it in screenshots or files. If I no longer need a token, I should revoke it instead of leaving it active.
+
+Difference between a commit and a push:
+A commit saves my staged changes as a checkpoint in my local Git repository. It records what I changed and includes a message describing the changes. A push sends my local commits to the remote GitHub repository. This means a commit can exist on my computer without being on GitHub until I push it.
+
+My repository URL:
+https://github.com/TlapuDev/SE103-Week4
