@@ -1,0 +1,43 @@
+
+Student Name: Phemelo Tlapu
+
+Problem:
+I need to complete a software engineering assignment and make sure my work is saved in the correct GitHub repository. I follow an organized process to understand the instructions, create the required file, check my work, and upload it.
+
+Input:
+The assignment instructions, my local project repository, Git Bash, the required file name, and an internet connection.
+
+Output:
+The completed assignment file is saved in the correct folder, committed to Git, and pushed to GitHub.
+
+Edge Case Handled:
+The required folder does not exist. I check whether the folder exists and create it before creating the assignment file.
+
+Pseudocode:
+START
+
+1. Read the assignment instructions carefully.
+2. Identify the required file name, folder, and content.
+3. Open Git Bash.
+4. Navigate to the correct project repository.
+5. IF the required folder does not exist THEN
+   - Create the folder.
+   ELSE
+   - Continue to the next step.
+6. Create the required file in the correct folder.
+7. Write the assignment content into the file.
+8. Review the file to check that all requirements are included.
+9. IF the file is complete and correct THEN
+   - Stage the file using Git.
+   - Commit the file with a meaningful message.
+   - Push the commit to GitHub.
+   ELSE
+   - Correct the missing or incorrect content.
+   - Review the file again.
+10. Check GitHub to confirm that the file was uploaded.
+11. END the process when the file is available in the repository.
+
+END
+
+Why this is clear enough to follow:
+This pseudocode breaks the assignment process into simple, ordered steps. It identifies the information and tools needed before starting. The IF/ELSE decisions explain what to do when a folder is missing or the file is not ready. Each step describes a specific action, making the process easier to follow. The final check confirms that the work has reached GitHub successfully.
