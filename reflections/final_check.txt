@@ -1,0 +1,16 @@
+
+Student Name: Phemelo Tlapu
+GitHub Username: TlapuDev
+Repository: SE103-Week4
+Repository URL: https://github.com/TlapuDev/SE103-Week4
+
+What I understand better about algorithms now:
+I understand that an algorithm is a clear sequence of steps used to solve a problem. I have learned to identify the input, the processing steps, and the expected output before writing pseudocode. I understand that decisions and loops help an algorithm handle different situations. I also learned that checking special cases, such as an empty list, makes an algorithm more complete. Breaking a problem into smaller steps makes it easier to understand and solve.
+
+How tracing changed my confidence:
+Tracing helped me follow an algorithm one step at a time and understand how its variables and decisions change. By checking each input against the expected result, I became better at identifying whether the logic works correctly. The traces for counting values and searching names helped me connect pseudocode with actual outcomes. I now feel more confident checking an algorithm before considering it complete.
+
+One pseudocode habit I will keep:
+I will continue writing clear steps and using meaningful names for variables. I will also check empty inputs and other important conditions before processing data. Finally, I will trace my pseudocode with sample inputs to check that the results match what I expect.
+
+All required files are on main: Yes
