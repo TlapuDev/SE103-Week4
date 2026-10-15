@@ -1,0 +1,11 @@
+
+Student Name: Phemelo Tlapu
+
+Which phrases were too vague:
+The phrases "Get student scores" and "Check them" were too vague because they did not explain where the scores came from or how they should be checked. "Find who failed" did not explain the rule for deciding whether a score was failing. "Show result" did not specify what result should be displayed.
+
+How I made each vague part specific:
+I explained that the input is a list of student scores. I used the rule score < 50 to identify failing scores. I added a loop to check every score and a decision to determine whether each score was below 50. I also added a step to display the failing scores or a message saying "No students failed" when the list contains no failing scores.
+
+Why refinement matters before coding:
+Refinement matters because vague instructions can lead to incorrect or incomplete programs. Clear steps help a programmer understand the problem and plan the solution before writing code. They also make it easier to test different situations and find mistakes early.

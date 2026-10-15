@@ -1,0 +1,29 @@
+Student Name: Phemelo Tlapu
+
+Problem:
+Find which scores failed.
+
+Input:
+A list of student scores.
+
+Output:
+The failing scores, or a message if no one failed.
+
+Failing rule:
+score < 50
+
+Pseudocode:
+START
+
+1. Set the failing scores list to empty.
+2. FOR each score in the list of student scores:
+   - IF the score is less than 50 THEN
+     - Add the score to the failing scores list.
+     ELSE
+     - Continue to the next score.
+3. IF the failing scores list is empty THEN
+   - Display "No students failed."
+   ELSE
+   - Display the failing scores list.
+
+END
