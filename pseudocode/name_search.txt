@@ -1,0 +1,35 @@
+
+Student Name: Phemelo Tlapu
+
+Problem:
+Search a list of names for one target name and report whether it was found.
+
+Input:
+- A list of names.
+- One target name.
+
+Output:
+- "Found" or "Not found".
+- An error if the list is empty.
+
+Pseudocode:
+START
+
+1. IF the list of names is empty THEN
+   - Display "Error: list is empty".
+   - STOP.
+   ELSE
+   - Continue to the next step.
+2. Set found to FALSE.
+3. FOR each name in the list:
+   - IF the current name equals the target name THEN
+     - Set found to TRUE.
+     - STOP checking the list.
+     ELSE
+     - Continue to the next name.
+4. IF found is TRUE THEN
+   - Display "Found".
+   ELSE
+   - Display "Not found".
+
+END
