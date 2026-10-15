@@ -1,0 +1,28 @@
+
+Student Name: Phemelo Tlapu
+
+Problem:
+Count how many numbers in a list are greater than 10.
+
+Input:
+A list of numbers.
+
+Output:
+The count, or an error if the list is empty.
+
+Pseudocode:
+START
+
+1. IF the list is empty THEN
+   - Display "Error: list is empty".
+   - STOP.
+   ELSE
+   - Set count to 0.
+2. FOR each number in the list:
+   - IF the number is greater than 10 THEN
+     - Increase count by 1.
+     ELSE
+     - Leave count unchanged.
+3. Display count.
+
+END
